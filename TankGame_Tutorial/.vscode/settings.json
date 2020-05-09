@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/repos/01_TankGame_Tutorial/TankGame_Tutorial/.vscode": true,
+		"D:/repos/01_TankGame_Tutorial/TankGame_Tutorial/Content": true,
+		"D:/repos/01_TankGame_Tutorial/TankGame_Tutorial/Intermediate": true
+	}
+}
